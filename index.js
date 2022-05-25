@@ -6,7 +6,7 @@ app.get('/api/game/content', (req, res) => {
   res.json({
     "title": "title",
     "background": "https://i.ytimg.com/vi/Ixzd8tYl5K4/maxresdefault.jpg",
-    "message": ""
+    "message": "test"
   })
 });
 
